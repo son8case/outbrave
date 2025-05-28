@@ -2,4 +2,4 @@
 
 > Project Source Files
 
-###### Everything other than source code should avoid this directory.
+###### Everything other than source code SHOULD avoid this directory.

@@ -1,6 +1,6 @@
-# TEMPLATE
+# OUTBRAVE
 
-> Project Summary
+> Case study of implementing hearthstone clone in dark fantasy style in classic (progression) and rebalanced mode
 
 Project Overview
 
